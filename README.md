@@ -1,6 +1,6 @@
 # Hi, I'm Sabarinathan Ramalingam 👋
 
-### Full Stack Developer | PHP | Laravel | React.js
+### Full Stack Developer | PHP | Laravel | React.js | REST APIs
 
 I'm a Full Stack Developer with 5+ years of experience building web applications, REST APIs, enterprise business systems, and AI-powered applications.
 
