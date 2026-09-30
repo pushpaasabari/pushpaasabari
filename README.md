@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | PHP | Laravel | React.js | REST APIs
 
-I'm a Full Stack Developer with 5+ years of experience building web applications, REST APIs, enterprise business systems, and AI-powered applications.
+I'm a Full Stack Developer with 6+ years of experience building web applications, REST APIs, enterprise business systems, and AI-powered applications.
 
 My primary expertise is in **PHP, Laravel, MySQL, REST APIs, and backend development**, with hands-on experience building modern frontend applications using **React.js**.
 
