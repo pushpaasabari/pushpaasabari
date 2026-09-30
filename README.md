@@ -1,11 +1,14 @@
 # Hi, I'm Sabarinathan Ramalingam 👋
 
-### Full Stack Developer | PHP | Laravel | React.js | REST APIs
+### Full Stack Developer | Laravel · PHP · React.js · REST APIs · MySQL · AWS EC2
 
-I'm a Full Stack Developer with 6+ years of experience building web applications, REST APIs, enterprise business systems, and AI-powered applications.
+I'm a Full Stack Developer with 6+ years of experience designing,
+building, and deploying production web applications using PHP,
+Laravel, React.js, and MySQL.
 
-My primary expertise is in **PHP, Laravel, MySQL, REST APIs, and backend development**, with hands-on experience building modern frontend applications using **React.js**.
-
+My experience spans REST API architecture, database design,
+payment gateway integration, cloud deployment, enterprise ERP
+systems, e-commerce platforms, and AI-integrated applications.
 ---
 
 ## 👨‍💻 About Me
@@ -76,94 +79,103 @@ My primary expertise is in **PHP, Laravel, MySQL, REST APIs, and backend develop
 
 **Laravel 12 · React.js · MySQL · OpenAI API**
 
-An AI-powered learning application that processes textbooks, notes and question-bank PDFs and generates practice questions and mock tests.
+AI-powered SaaS platform that automates competitive-exam mock
+test creation from user-uploaded study materials using OpenAI API.
 
 **Key areas:**
 
-- PDF-based content processing
+- PDF-based study material processing
 - OpenAI API integration
-- AI-generated questions
-- Custom mock test creation
-- Laravel REST APIs
-- React.js frontend
-- MySQL database
+- AI-generated question creation
+- Mock-test creation and evaluation
+- Laravel 12 REST APIs
+- React.js interfaces
+- MySQL database design
+- Postman API testing and documentation
 
 🔗 [View Project](https://github.com/pushpaasabari/ai-mock-generator)
 
----
 
-### 🏭 Confectionery Operations Management System
+### 🏭 Confectionery Operations Management System (COMS)
 
-**Laravel 12 · MySQL · REST APIs · React.js · Sanctum**
+**Laravel 12 · React.js · MySQL · REST APIs · Laravel Sanctum**
 
-Enterprise operations management system covering procurement, production, inventory, warehouse, outlets and retail operations.
+Enterprise ERP system for confectionery and bakery manufacturing,
+covering procurement, production, inventory, warehouse, and retail
+operations.
 
 **Key areas:**
 
+- Procurement workflows
+- Production workflows
+- Inventory management
+- Warehouse management
+- Outlet stock workflows
+- Automated stock transactions
 - REST API development
-- Service Layer architecture
-- Form Requests and API Resources
-- Inventory and stock transactions
 - Laravel Sanctum authentication
-- MySQL query optimization
-- Postman API testing and documentation
+- Service Layer architecture
+- MySQL database optimization
 
-> Project details are presented without exposing proprietary company code or data.
 
----
+### 💰 FinGM — Financial & Group Management
 
-### 👥 Self-Help Group Management System
+**Laravel 12 · PHP · React.js · MySQL**
 
-**PHP · Laravel · MySQL · REST APIs**
-
-Full-stack management system designed to manage self-help group operations, members, records and business workflows.
+Full-stack financial and group management application modernized
+from a legacy system into a scalable web application.
 
 **Key areas:**
 
-- Database design
-- REST API architecture
-- Authentication and authorization
-- CRUD workflows
-- Backend development
-- Production deployment
+- Financial workflows
+- Meeting lifecycle management
+- Repayment processing
+- Business-rule validation
+- Database transactions
+- Database locking
+- Rollback and data-integrity controls
+- CA auditor workflows
+- Audit records
+- Business documentation workflows
 
----
 
-### 🛒 Full-Stack E-Commerce Platform
+### 🛒 E-Commerce Platform
 
-**PHP · Laravel · MySQL · JavaScript · REST APIs**
+**Laravel · PHP · MySQL · REST APIs · Payment Gateway · AWS EC2**
 
-Full-stack e-commerce application covering product, user and order management with payment gateway integration.
+Full-stack e-commerce platform managing products, customers,
+orders, inventory, and secure online payments.
 
 **Key areas:**
 
 - Product management
-- User management
-- Order processing
+- Customer management
+- Order management
+- Inventory management
+- RESTful APIs
 - Payment gateway integration
-- REST APIs
-- Database design
-- Cloud deployment
-
----
+- AWS EC2 deployment
+- DigitalOcean deployment
+- Production support
 
 ## 🧠 Engineering Focus
 
 I enjoy working on:
 
 - Laravel application architecture
-- REST API design
+- REST API design and development
+- Service Layer architecture
 - MVC / HMVC
 - Database design and optimization
+- Transaction processing and data integrity
 - Authentication and authorization
-- Backend performance
+- Backend performance optimization
+- React.js application development
 - Third-party API integrations
 - Payment gateway integrations
-- React.js applications
-- AI API integration
-- Cloud deployment
-
----
+- OpenAI API integration
+- AWS EC2 deployment
+- Linux production environments
 
 ## 🌱 Currently Learning
 
